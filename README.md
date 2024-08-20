@@ -1,1 +1,1 @@
-This repository includes input patient data and demo program for knee-osteoporosis-AI.
+This repository includes input patient data (patient details.xlsx) and demo program for knee-osteoporosis-AI (~.ipynb).
